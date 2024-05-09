@@ -4,8 +4,8 @@ import os
 from PIL import Image
 
 # 클라이언트 ID와 시크릿 키
-client_id = '89a588fc74f306f0be69'
-client_secret = 'f6c529de24416e181a64ecbac409e1db'
+client_id = ''
+client_secret = ''
 
 # Xapp 토큰을 얻기 위한 엔드포인트
 token_url = 'https://api.artsy.net/api/tokens/xapp_token'
